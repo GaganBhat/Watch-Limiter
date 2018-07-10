@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnEnableAdmin" type="id">1</item>
+    <item name="btnDisableAdmin" type="id">2</item>
+    <item name="btnLock" type="id">3</item>
+</resources>
